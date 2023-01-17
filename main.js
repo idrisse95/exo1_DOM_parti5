@@ -38,4 +38,7 @@ exo1.addEventListener('click', ()=> {
 let exo2 = document.querySelector('h1')
 exo2.addEventListener('click', () =>{
     exo2.style.backgroundColor=theBackground
+    exo2.style.color=theColor
 })
+
+
